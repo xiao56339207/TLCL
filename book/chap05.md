@@ -457,7 +457,7 @@ cp 命令会默认重写文件。</td>
 </tr>
 <tr>
 <td valign="top">-v, --verbose</td>
-<td valign="top">显示翔实的命令操作信息</td>
+<td valign="top">显示详实的命令操作信息</td>
 </tr>
 </table>
 
